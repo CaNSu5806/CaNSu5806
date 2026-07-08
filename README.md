@@ -130,7 +130,6 @@ Here is where I actively train, test my boundaries, and solve complex security c
 </a>
 
 </p>
----
 
 
 > **To hunt the darkness, you must learn to walk in the dark..**
@@ -141,7 +140,7 @@ Name      : Cansu
 Role      : Computer Engineering Student
 Focus     : Cybersecurity
 Interests : Pentesting • OSINT • Linux • Python 
-Status    : Learning Every Day
+Status    : Learning..
 ```
 
 
