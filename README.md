@@ -61,7 +61,11 @@ Here is where I actively train, test my boundaries, and solve complex security c
 </p>
 
 ---
+## 🧊 My 3D Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-3d-graph.ansi-code.workers.dev/api?username=KULLANICI_ADIN&theme=dark" alt="3D Contribution Graph" />
+</p>
 ---
 
 <p align="center">
