@@ -1,4 +1,4 @@
-# 🛡️ Hi, I'm Cansu! | Cybersecurity Enthusiast & Researcher
+# 🛡️ Hi, I'm Cansu! | Cybersecurity Student & Researcher
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security%20%26%20Ethical%20Hacking-red?style=for-the-badge&logo=target&logoColor=white" />
@@ -65,5 +65,5 @@ Here is where I actively train, test my boundaries, and solve complex security c
 ---
 
 <p align="center">
-  <i>"Anlık olarak sistemleri analiz ediyor, açıkları sömürüyor ve daha güvenli bir dijital dünya inşa etmek için kodluyorum."</i>
+  <i>"The best defense is a good offense."</i>
 </p>
