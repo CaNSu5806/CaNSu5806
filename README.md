@@ -1,6 +1,6 @@
 # 🛡️ Hi, I'm Cansu! | Computer Engineering Student • Cybersecurity • Ethical Hacking
 
-![header](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,100:00ff66&text=root@Cansu:~$%20whoami&fontColor=00ff66&fontSize=45&animation=fadeIn&desc=Computer%20Engineering%20Student&descAlignY=70)
+![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,50:000000,100:00ff66&text=root@Cansu:~$%20rm%20-rf%20/*%20--no-preserve-root&fontColor=00ff66&fontSize=33&animation=fadeIn&desc=CyberSecurity%20Student&descAlignY=70)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Penetration+Testing;Ethical+Hacking+%7C+OSINT;Python+Automation;Linux+Enthusiast;Web+Security"/>
