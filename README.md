@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 About Me & Mission
-I am a dedicated student and self-driven security researcher focusing on **Penetration Testing**, **Vulnerability Assessment**, and **OSINT (Open Source Intelligence)**. I spend my time analyzing systems, writing automation scripts, and solving security challenges to understand both the offensive and defensive sides of technology.
+I am a dedicated student and self-driven security researcher focusing on **Penetration Testing**,**Web Security**, **Vulnerability Assessment**, and **OSINT (Open Source Intelligence)**. I spend my time analyzing systems, writing automation scripts, and solving security challenges to understand both the offensive and defensive sides of technology.
 
 - 🧩 **Problem Solving:** When I'm not analyzing binaries or capturing flags, I immerse myself in tactical thinking as a competitive chess player.
 - ⚙️ **Core Values:** Continuously learning, documenting methodologies, and practicing responsible disclosure.
@@ -61,10 +61,10 @@ Here is where I actively train, test my boundaries, and solve complex security c
 </p>
 
 ---
-## 🐍 My Contribution Snake
+## My Contribution Table
 
 ![Snake animation](https://raw.githubusercontent.com/CaNSu5806/CaNSu5806/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
-  <i>"The best defense is a good offense."</i>
+  <i>"To hunt the darkness, you must learn to walk in the dark.."</i>
 </p>
