@@ -22,12 +22,10 @@ Here is where I actively train, test my boundaries, and solve complex security c
 ### 🟥 TryHackMe
 * Hands-on cyber security training through structured, gamified labs.
 * **Focus areas:** Network security, privilege escalation (Linux/Windows), web application hacking, and defensive security blueprints.
-* 🔗 [View My TryHackMe Profile](https://tryhackme.com/) *(Replace with your direct profile URL if you want)*
 
 ### 🟩 HackTheBox
 * Advanced, real-world penetration testing environments and enterprise-level machines.
 * **Focus areas:** Exploit development, active directory auditing, reverse engineering, and custom script utilization to gain root/system access.
-* 🔗 [View My HackTheBox Profile](https://hackthebox.com/)
 
 ### 🎯 picoCTF & PortSwigger Academy
 * **picoCTF:** JeoPardy-style CTFs focusing on Cryptography, Forensics, and Web Exploitation.
@@ -63,15 +61,6 @@ Here is where I actively train, test my boundaries, and solve complex security c
 </p>
 
 ---
-
-## 📊 GitHub Metrics & Cyber Stats
-
-*⚠️ Note: If graphs are not loading, ensure you replace `KULLANICI_ADIN` in the code below with your exact GitHub username.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&count_private=true" alt="Cansu's Stats" width="48%" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
