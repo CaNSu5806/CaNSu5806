@@ -1,4 +1,4 @@
-# 🛡️ Hi, I'm Cansu! | Computer Engineering Student • Cybersecurity • Ethical Hacking
+# 🛡️ **Hi, I'm Cansu! | CE Student • Cybersecurity • Ethical Hacking**
 
 ![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,50:000000,100:00ff66&text=root@Cansu:~$%20rm%20-rf%20/*%20--no-preserve-root&fontColor=00ff66&fontSize=33&animation=fadeIn&desc=CyberSecurity%20Student&descAlignY=70)
 
@@ -131,8 +131,6 @@ Here is where I actively train, test my boundaries, and solve complex security c
 
 </p>
 
-
-> **To hunt the darkness, you must learn to walk in the dark..**
 ```text
 root@cansu:~$ whoami
 
@@ -142,5 +140,4 @@ Focus     : Cybersecurity
 Interests : Pentesting • OSINT • Linux • Python 
 Status    : Learning..
 ```
-
-
+> **To hunt the darkness, you must learn to walk in the dark..**
