@@ -61,10 +61,9 @@ Here is where I actively train, test my boundaries, and solve complex security c
 </p>
 
 ---
-## 🧊 My 3D Contribution Graph
+## 🐍 My Contribution Snake
 
-![](./profile-3d-contrib/profile-green-animate.svg)
----
+![Snake animation](https://raw.githubusercontent.com/CaNSu5806/CaNSu5806/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <i>"The best defense is a good offense."</i>
