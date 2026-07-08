@@ -1,10 +1,9 @@
-[[
 # 🛡️ Hi, I'm Cansu! | Cybersecurity Student & Researcher
 
-![Hacker Aesthetics](https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=150&section=header&text=root@Cansu:~%23&fontSize=50&fontAlignY=35&animation=twinkling&theme=dark)
+![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,35:003300,70:00ff66,100:00ff99&text=root@Cansu:~$&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Ethical%20Hacking%20%7C%20OSINT&descAlignY=58&descAlign=50)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=whoami;Computer+Engineering+Student;Cybersecurity+Learner;Ethical+Hacking+%7C+OSINT;Python+Automation;Linux+Enthusiast;Never+Stop+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Penetration+Testing;Ethical+Hacking+%7C+OSINT;Python+Automation;Linux+Enthusiast;Web+Security"/>
 </p>
 
 <p align="left">
@@ -29,12 +28,12 @@ Here is where I actively train, test my boundaries, and solve complex security c
 ### 🟥 TryHackMe
 * Hands-on cyber security training through structured, gamified labs.
 * **Focus areas:** Network security, privilege escalation (Linux/Windows), web application hacking, and defensive security blueprints.
-* 🔗 [View My TryHackMe Profile](https://tryhackme.com/) *(Replace with your direct profile URL if you want)*
+
 
 ### 🟩 HackTheBox
 * Advanced, real-world penetration testing environments and enterprise-level machines.
 * **Focus areas:** Exploit development, active directory auditing, reverse engineering, and custom script utilization to gain root/system access.
-* 🔗 [View My HackTheBox Profile](https://hackthebox.com/)
+
 
 ### 🎯 picoCTF & PortSwigger Academy
 * **picoCTF:** JeoPardy-style CTFs focusing on Cryptography, Forensics, and Web Exploitation.
@@ -69,50 +68,11 @@ Here is where I actively train, test my boundaries, and solve complex security c
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
----
-
-## 📊 GitHub Metrics & Cyber Stats
-
-*⚠️ Note: If graphs are not loading, ensure you replace `KULLANICI_ADIN` in the code below with your exact GitHub username.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&count_private=true" alt="Cansu's Stats" width="48%" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
 
 <p align="center">
   <i>"Anlık olarak sistemleri analiz ediyor, açıkları sömürüyor ve daha güvenli bir dijital dünya inşa etmek için kodluyorum."</i>
 </p>font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=whoami;Computer+Engineering+Student;Cybersecurity+Learner;Ethical+Hacking+%7C+OSINT;Python+Automation;Linux+Enthusiast;Never+Stop+Learning"/>
 </p>
-
----
-
-```text
-root@cansu:~$ whoami
-
-Name      : Cansu
-Role      : Computer Engineering Student
-Focus     : Cybersecurity
-Interests : Pentesting • OSINT • Linux • Python
-Status    : Learning Every Day
-```
-
-## 🚀 About Me
-
-I am a Computer Engineering student passionate about cybersecurity. I enjoy learning penetration testing, Linux, web security, Python automation and solving CTF challenges. My GitHub is where I document my learning journey and publish projects as I continue improving.
-
----
-
-## 🎯 Current Mission
-
-- Learn Web Penetration Testing
-- Improve Linux Skills
-- Build Python Security Tools
-- Practice on TryHackMe & Hack The Box
-- Study Active Directory
-- Learn Reverse Engineering & Malware Analysis
 
 ---
 
@@ -148,33 +108,10 @@ I am a Computer Engineering student passionate about cybersecurity. I enjoy lear
 - 🟨 picoCTF
 - 🟧 PortSwigger Academy
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CaNSu5806&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CaNSu5806&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaNSu5806&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaNSu5806&theme=github-compact"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CaNSu5806&theme=matrix&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -200,11 +137,16 @@ I am a Computer Engineering student passionate about cybersecurity. I enjoy lear
 ## 📫 Connect
 
 <p align="center">
+
 <a href="https://github.com/CaNSu5806">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-</p>
 
+<a href="https://www.linkedin.com/in/cansu-%C3%A7o%C5%9Fkun-155a65295/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 <p align="center">
@@ -212,6 +154,15 @@ I am a Computer Engineering student passionate about cybersecurity. I enjoy lear
 </p>
 
 > **"Security is a process, not a product." — Bruce Schneier**
+```text
+root@cansu:~$ whoami
+
+Name      : Cansu
+Role      : Computer Engineering Student
+Focus     : Cybersecurity
+Interests : Pentesting • OSINT • Linux • Python
+Status    : Learning Every Day
+```
 
 ```text
 root@cansu:~$ exit
