@@ -1,4 +1,15 @@
 # 🛡️ Hi, I'm Cansu! | Cybersecurity Student & Researcher
+![Hacker Aesthetics](https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=150&section=header&text=root@Cansu:~%23&fontSize=50&fontAlignY=35&animation=twinkling&theme=dark)
+
+```text
+  _____                        
+ / ____|                       
+| |      __ _ _ __  ___ _   _ 
+| |     / _` | '_ \/ __| | | |
+| |____| (_| | | | \__ \ |_| |
+ \_____|\__,_|_| |_|___/\__,_|
+                              
+ 🛡️ Cyber Security Student & Researcher
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security%20%26%20Ethical%20Hacking-red?style=for-the-badge&logo=target&logoColor=white" />
