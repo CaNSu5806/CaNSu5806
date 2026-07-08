@@ -1,6 +1,6 @@
-# 🛡️ Hi, I'm Cansu! | Cybersecurity Student & Researcher
+# 🛡️ Hi, I'm Cansu! | Computer Engineering Student • Cybersecurity • Ethical Hackin
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,35:003300,70:00ff66,100:00ff99&text=root@Cansu:~$&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Ethical%20Hacking%20%7C%20OSINT&descAlignY=58&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=24,2,0,3,30&text=Cansu&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Student%20•%20Penetration%20Testing%20•%20OSINT&descSize=20&descAlignY=63)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Penetration+Testing;Ethical+Hacking+%7C+OSINT;Python+Automation;Linux+Enthusiast;Web+Security"/>
@@ -34,6 +34,10 @@ Here is where I actively train, test my boundaries, and solve complex security c
 * Advanced, real-world penetration testing environments and enterprise-level machines.
 * **Focus areas:** Exploit development, active directory auditing, reverse engineering, and custom script utilization to gain root/system access.
 
+### 🟦 Hackviser
+* Hands-on cybersecurity platform designed to strengthen practical hacking skills through interactive labs and real-world security scenarios.
+* **Focus areas:** Web Security, Penetration Testing, Vulnerability Assessment, OSINT, Linux fundamentals, and ethical hacking techniques.
+  
 
 ### 🎯 picoCTF & PortSwigger Academy
 * **picoCTF:** JeoPardy-style CTFs focusing on Cryptography, Forensics, and Web Exploitation.
@@ -69,11 +73,6 @@ Here is where I actively train, test my boundaries, and solve complex security c
 </p>
 
 
-<p align="center">
-  <i>"Anlık olarak sistemleri analiz ediyor, açıkları sömürüyor ve daha güvenli bir dijital dünya inşa etmek için kodluyorum."</i>
-</p>font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=whoami;Computer+Engineering+Student;Cybersecurity+Learner;Ethical+Hacking+%7C+OSINT;Python+Automation;Linux+Enthusiast;Never+Stop+Learning"/>
-</p>
-
 ---
 
 ## 💻 Tech Stack
@@ -93,26 +92,10 @@ Here is where I actively train, test my boundaries, and solve complex security c
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gobuster-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FFUF-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hydra-red?style=for-the-badge"/>
 
 </p>
 
 ---
-
-## 🚩 CTF Platforms
-
-- 🟥 TryHackMe
-- 🟩 Hack The Box
-- 🟨 picoCTF
-- 🟧 PortSwigger Academy
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaNSu5806&theme=github-compact"/>
-</p>
 
 ---
 
@@ -149,24 +132,16 @@ Here is where I actively train, test my boundaries, and solve complex security c
 </p>
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=CaNSu5806&style=for-the-badge&color=00ff66"/>
-</p>
 
-> **"Security is a process, not a product." — Bruce Schneier**
+> **To hunt the darkness, you must learn to walk in the dark..**
 ```text
 root@cansu:~$ whoami
 
 Name      : Cansu
 Role      : Computer Engineering Student
 Focus     : Cybersecurity
-Interests : Pentesting • OSINT • Linux • Python
+Interests : Pentesting • OSINT • Linux • Python 
 Status    : Learning Every Day
 ```
 
-```text
-root@cansu:~$ exit
 
-Connection closed.
-```
-](https://github.com/CaNSu5806)](https://github.com/CaNSu5806)
