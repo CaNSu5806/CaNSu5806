@@ -1,9 +1,22 @@
 # 🛡️ **Hi, I'm Cansu! | CE Student • Cybersecurity • Ethical Hacking**
 
-![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,50:000000,100:00ff66&text=root@Cansu:~$%20rm%20-rf%20/*%20--no-preserve-root&fontColor=00ff66&fontSize=33&animation=fadeIn&desc=CyberSecurity%20Student&descAlignY=70)
+<style>
+  @keyframes pulseEffect {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.3; 
+    }
+  }
+  .animated-badges img {
+    animation: pulseEffect 3s infinite ease-in-out;
+  }
+</style>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Penetration+Testing;Ethical+Hacking+%7C+OSINT;Python+Automation;Linux+Enthusiast;Web+Security"/>
+<p align="left" class="animated-badges">
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security%20%26%20Ethical%20Hacking-red?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environment-Linux%20%26%20Terminal-black?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 <p align="left">
@@ -96,7 +109,15 @@ Here is where I actively train, test my boundaries, and solve complex security c
 </p>
 
 ---
+# 📊 GitHub Statistics
 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CaNSu5806&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CaNSu5806&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
 ---
 
 ## 🐍 Contribution Table
