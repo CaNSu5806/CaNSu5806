@@ -1,4 +1,4 @@
-# 🛡️ **Hi, I'm Cansu! | CE Student • Cybersecurity • Ethical Hacking**
+# 🛡️ **Hi, I'm Cansu! | Cybersecurity • Web Security • Ethical Hacking**
 
 ![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,50:000000,100:00ff66&text=root@Cansu:~$%20rm%20-rf%20/*%20--no-preserve-root&fontColor=00ff66&fontSize=33&animation=fadeIn&desc=CyberSecurity%20Student&descAlignY=70)
 
@@ -49,27 +49,53 @@ Here is where I actively train, test my boundaries, and solve complex security c
 
 ### 🚀 Pentesting & Core Security Tools
 <p align="left">
+<a href = "https://github.com/CaNSu5806/OverTheWire"></a>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
+</a>
+<a href = "https://github.com/CaNSu5806/PortSwigger-Academy-Labs"></a>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp" />
+</a>
+<a href = "https://github.com/CaNSu5806/picoCTF">
+    </a>
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <a href = "https://cansu5806.github.io/Web/warning-for-my-github">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  </a>
+  <a href = "https://cansu5806.github.io/Web/warning-for-my-github">
   <img src="https://img.shields.io/badge/Nmap-004488?style=for-the-badge&logo=serverfault&logoColor=white" alt="Nmap" />
+  </a>
 </p>
 
 ### 💻 Programming, Scripting & Automation
 <p align="left">
+  <a href = "https://github.com/CaNSu5806/Python-Projects">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href = "https://github.com/CaNSu5806/OverTheWire">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  </a>
+  <a href = "https://github.com/CaNSu5806/C-Project">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  </a>
+  <a href = "https://github.com/CaNSu5806/Data-Structures">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+  <a href = "https://github.com/CaNSu5806/Java">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
 </p>
 
 ### 🗄️ Databases & Web Technology
 <p align="left">
+  <a href ="https://github.com/CaNSu5806/Data-Structures">
   <img src="https://img.shields.io/badge/SQL%20%26%20Databases-CC292B?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
+  </a>
+  <a href = "https://github.com/CaNSu5806/Weather-Web">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+   <a href = "https://github.com/CaNSu5806/Weather-Web">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
 </p>
 
 
@@ -78,7 +104,9 @@ Here is where I actively train, test my boundaries, and solve complex security c
 ## 💻 Tech Stack
 
 <p align="center">
+<a href = "https://cansu5806.github.io/Web/warning-for-my-github">
 <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,linux,git,github,vscode,html,css,mysql"/>
+</a>
 </p>
 
 ---
@@ -86,13 +114,21 @@ Here is where I actively train, test my boundaries, and solve complex security c
 ## 🛠️ Security Arsenal
 
 <p align="center">
-
+<a href = "https://www.kali.org/docs/introduction/">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</a>
+<a href = "https://www.kali.org/tools/burpsuite/">
 <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white"/>
+</a>
+<a href = "https://www.wireshark.org/learn">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</a>
+<a href ="https://nmap.org/docs.html">
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+</a>
+<a href = "https://docs.metasploit.com/">
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-
+</a>
 </p>
 
 ---
@@ -128,7 +164,9 @@ Here is where I actively train, test my boundaries, and solve complex security c
 <a href="https://www.linkedin.com/in/cansu-%C3%A7o%C5%9Fkun-155a65295/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+<a href="https://cansu5806.github.io/Web/warning-for-my-github/">
+  <img src="https://img.shields.io/badge/CANSU%20%F0%9F%92%A3-red?style=for-the-badge&logo=minesweeper&logoColor=white"/>
+</a>
 </p>
 
 ```text
