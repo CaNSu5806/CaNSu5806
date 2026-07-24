@@ -3,12 +3,13 @@
 ![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,50:000000,100:00ff66&text=root@Cansu:~$%20rm%20-rf%20/*%20--no-preserve-root&fontColor=00ff66&fontSize=33&animation=fadeIn&desc=CyberSecurity%20Student&descAlignY=70)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Offensive+Security+%7C+Red+Teaming;Penetration+Testing;Ethical+Hacking;Web+Vulnerability+Exploitation;Linux+%26+Scripting;Cyber+Security+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Web+Vulnerability+Exploitation;Offensive+Security+%7C+Red+Teaming;Penetration+Testing;Ethical+Hacking;Linux+%26+Scripting;Cyber+Security+Enthusiast"/>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security%20%26%20Ethical%20Hacking-red?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Environment-Linux%20%26%20Terminal-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environment-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Labbing%20%26%20CTF-00FF66?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </p>
 
 ---
