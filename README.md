@@ -1,9 +1,9 @@
-# 🛡️ **Hi, I'm Cansu! | Cyber Security • Web Security • Ethical Hacking**
+# 🛡️ **Hi, I'm Cansu! | Offensive Security • Web Exploitation • Penetration Testing**
 
 ![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,50:000000,100:00ff66&text=root@Cansu:~$%20rm%20-rf%20/*%20--no-preserve-root&fontColor=00ff66&fontSize=33&animation=fadeIn&desc=CyberSecurity%20Student&descAlignY=70)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Penetration+Testing;Ethical+Hacking+%7C+OSINT;Python+Automation;Linux+Enthusiast;Web+Security"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Offensive+Security+%7C+Red+Teaming;Penetration+Testing;Ethical+Hacking;Web+Vulnerability+Exploitation;Linux+%26+Scripting;Cyber+Security+Enthusiast"/>
 </p>
 
 <p align="left">
@@ -164,6 +164,11 @@ Here is where I actively train, test my boundaries, and solve complex security c
 <a href="https://www.linkedin.com/in/cansu-%C3%A7o%C5%9Fkun-155a65295/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://tryhackme.com/p/KULLANICI_ADIN">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+
 <a href="https://cansu5806.github.io/Web/warning-for-my-github/">
   <img src="https://img.shields.io/badge/CANSU%20%F0%9F%92%A3-red?style=for-the-badge&logo=minesweeper&logoColor=white"/>
 </a>
